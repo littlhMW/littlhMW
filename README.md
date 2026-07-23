@@ -1,16 +1,13 @@
-## Hi there 👋
+# littlh
 
-<!--
-**littlhMW/littlhMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个只会复制粘贴代码的搬运工，主职是美工。
 
-Here are some ideas to get you started:
+偶尔汉化一些自己感兴趣的东西，做一些自己用的小工具，还有一些自己世界观的小玩意儿。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前 GitHub 上主要堆着 Minecraft 相关的东西，和一些 D&D 工具。  
+正在做 **苍白摇篮**：一个基于我自己世界观设定的冒险魔法向 MC Mod。  
+还有一堆独立游戏……难说有后续。
+
+不知道你是怎么翻到我的，总之很高兴认识你。如果对我的项目感兴趣，欢迎来 B 站联系我。
+
+大概就这样，随缘更新，别太期待。
