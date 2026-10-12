@@ -2,8 +2,8 @@
 
 # littlh
 
-### 做一些自己觉得有意思的东西
-**有时候是工具，有时候是 Mod，有时候只是一个没什么用的小实验。**
+### 🎨 美工 · 🎮 Gamer
+本职一个普通Gamer和美工，做一些方便自己的小玩意。
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,100:9b8afc&height=140&section=header&text=littlhMW&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
@@ -13,67 +13,20 @@
 
 </div>
 
-> **「我通常只是想试试看，结果事情就慢慢变大了。」**
-
----
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-## 🌙 正在折腾
-
-### [pale_lullaby](https://github.com/littlhMW/pale_lullaby)
-
-一个从**自己的世界观**开始，逐渐长成 Minecraft Mod 的长期项目。
-
-冒险、魔法、吸血鬼，以及越来越多的世界观设定。
-
-**状态：** `开发中……`
-
-</td>
-<td width="48%" valign="top">
-
-## 📖 最近在做
-
-### [Broken Chronicles](https://github.com/littlhMW/broken-chronicles)
-
-> *A library for fragmented stories.*
-
-一个围绕**碎片化叙事**展开的 Minecraft 故事框架。
-
-让故事不一定按照「开始 → 发展 → 结局」出现。
-
-**状态：** `实验 / 扩展中`
-
-</td>
-</tr>
-</table>
-
----
+> 大部分代码基于原仓库修改、汉化或扩展； 及AI vibecoding 完成。
 
 ## ✦ 关于我
 
-我是一个**美工出身、偶尔写代码的人**。
+日常兴趣主要是 Minecraft、D&D、Rain World，也会做视觉与 UI、本地化和小工具。
 
-我会从别人的东西开始，也会自己做东西；看到感兴趣的东西就会折腾一下，然后经常不知不觉地把事情做得比最开始计划的复杂。
-
-我不太在意自己最终会被归类成什么方向。
-
-**Minecraft / D&D / Rain World / UI / 世界观 / 本地化 / 小工具 / 奇怪的实验**
-
-这些东西只要让我觉得「这个可以试试看」，就足够成为一个项目的开始。
+**Minecraft / D&D / Rain World / UI / 世界观 / 本地化 / 小工具 / 技术实验**
 
 <details>
 <summary>▸ 关于这里的仓库</summary>
 
 <br>
 
-这里有一些是我自己做的，也有一些是 Fork、修改、汉化或基于别人作品继续折腾的东西。
-
-所以仓库数量和代码量并不能完全代表我的原创作品数量。
-
-如果你想看**最接近「我自己的东西」**的项目，可以先看看：
+一些主要项目：
 
 - 🌙 [pale_lullaby](https://github.com/littlhMW/pale_lullaby)
 - 📖 [broken-chronicles](https://github.com/littlhMW/broken-chronicles)
@@ -109,7 +62,7 @@ Mod / 世界观 / 实验
 ### 🐌
 **Rain World**
 
-模组 / Python / 奇怪想法
+模组 / Python / 实验
 
 </td>
 <td align="center" width="25%">
@@ -189,7 +142,7 @@ Mod / 世界观 / 实验
 
 </div>
 
-> 技术栈会随着项目一起长出来，而不是先决定一个方向再开始做。
+> 常用工具：Python、Java、Git、HTML/CSS。
 
 ---
 
@@ -203,11 +156,11 @@ Mod / 世界观 / 实验
 - 🧱 Minecraft Mod 与各种实验
 - 🎲 D&D 角色 / 数据 / 工具
 - 🐌 Rain World 相关项目
-- 🛠️ 「这个应该没人需要，但我就是想做」的小工具
+- 🛠️ 个人用的小工具与便利功能
 - 🌐 汉化、本地化与文本处理
 - 🎨 从一个视觉想法开始的项目
-- 🧪 一些没有明确用途的技术实验
-- 📦 Fork、修改、二次加工以及各种半成品
+- 🧪 原型与技术实验
+- 📦 Fork、修改、汉化与持续迭代
 
 </details>
 
@@ -215,13 +168,9 @@ Mod / 世界观 / 实验
 
 <div align="center">
 
-### 🌱 最近的开发哲学
+### 🌱 项目进度
 
-> **先做出来。**
->
-> 然后发现事情比想象中复杂。
->
-> **再慢慢把它做完。**
+
 
 <br>
 
@@ -229,6 +178,6 @@ Mod / 世界观 / 实验
 
 <br><br>
 
-*谢谢你翻到这里。*
+
 
 </div>
