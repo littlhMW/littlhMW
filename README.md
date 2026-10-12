@@ -3,7 +3,7 @@
 # littlh
 
 ### 🎨 美工 · 🎮 Gamer
-本职一个普通Gamer和美工，做一些方便自己的小玩意。
+一个普通Gamer和美工，做一些方便自己的小玩意。
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e56cf,100:9b8afc&height=140&section=header&text=littlhMW&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
